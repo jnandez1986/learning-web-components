@@ -1,0 +1,29 @@
+.button {
+  display: inline-block;
+  text-decoration: none;
+  font: menu;
+  padding: 2px 8px;
+  background: lightgrey; color: ButtonText;
+ 
+}
+
+button {
+	border-style: solid; border-width: 2px;
+	outline: none;
+}
+
+.button:hover {
+    color: #F80000;
+}
+
+.button:active {
+    color: #0000FF;
+}
+
+.button-md {
+	padding: 20px;
+}
+
+.button-lg {
+	padding: 30px;
+}
