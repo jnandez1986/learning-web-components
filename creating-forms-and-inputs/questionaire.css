@@ -1,0 +1,25 @@
+body {
+	font-family: sans-serif;
+	background-color: #ffcc99;
+}
+
+.formula {
+	width: 40%;
+	margin: auto;
+	line-height: 2em;
+	background-color: #ffe6cc;
+	border-radius: 5px;
+
+}
+
+.textbox {
+	border-radius: 5px;
+}
+
+h2 {
+	text-align: center;
+}
+
+.in {
+	margin-left: 25px;
+}
