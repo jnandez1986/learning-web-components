@@ -1,0 +1,38 @@
+.appointment {
+	max-width: 300px;
+	margin: 20px auto;
+	padding: 10px 20px;
+	background: #339966;
+	border-radius: 8px;
+	border-style: double;
+}
+
+h1 {
+	margin: 0 0 20px 0;
+	text-align: center;
+}
+
+p {
+	margin: 0 0 20px 0;
+	text-align: center;
+	font-size: 1.15em;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+input, select {
+	border: none;
+	font-size: 16px;
+	height: auto;
+	margin: 0;
+	outline: 0;
+	padding: 10px;
+	width: 93%;
+	background-color: #ffff99;
+	color: #996633;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
