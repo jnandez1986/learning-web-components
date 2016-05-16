@@ -40,7 +40,7 @@ The CSS box model is exactly what its name is, a box. You can think of HTML elem
 
 Here is a example of the box model:
 
-![box model]("http://www.codeproject.com/KB/HTML/567385/boxmodel-image.png")
+![box model](http://www.codeproject.com/KB/HTML/567385/boxmodel-image.png)
 
 Lets start with the margin of the box model. The *margin* is transparent and gives it space outside the border. The *border* surrounds the padding and content. The *padding* is like the margin but instead of being outside the border, it's inside the border. The content is where the text and images will appear.
 
