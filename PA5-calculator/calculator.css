@@ -1,0 +1,57 @@
+.num {
+	width: 300px;
+	height: 330px;	
+	margin: 100px auto;
+	padding: 20px 20px 9px;
+	background-color: #191970;
+}
+
+input {
+		float: left;
+		width: 66px;
+		height: 42px;
+		background: white;
+		border-radius: 3px;
+		margin: 0 7px 11px 0;
+		color: black;
+}
+
+.butt {
+	clear: both;
+}
+
+#answer {
+	width: 206px;
+	height: 50px;
+	background-color: lightgrey;
+}
+
+.cc {
+	background-color: #ff5050;
+
+}
+
+.op {
+	background-color: yellow;
+}
+
+.equal {
+	background-color: #6699ff;
+}
+
+.del {
+	background-color: #993366;
+}
+
+.clr {
+
+	float: right;
+	background-color: #99ff33;
+	position: relative;
+	bottom: 0;
+	right: 8px; 
+}
+
+input:hover {
+	background-color: #FF69B4;
+}
