@@ -1,0 +1,22 @@
+.search-box {
+	float: left;
+	margin-left: 10px;
+	float: left;
+}
+
+.options { 
+	margin:0 0 0 30px;
+	float: left;
+}
+
+.search-button {
+	background-color: #0099FF;
+	border-radius: 20px;
+}
+
+.search {
+	border-radius: 10px;
+	background-color: lightgrey;
+	padding: 3px;
+}
+
